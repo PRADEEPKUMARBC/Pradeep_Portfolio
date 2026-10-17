@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://pradeepkumar-portfolio.vercel.app/sitemap.xml
